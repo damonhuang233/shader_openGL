@@ -1,0 +1,28 @@
+﻿  sample.cpp
+D:\CS450\project 5\sphere.h(57,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CS450\project 5\sphere.h(58,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CS450\project 5\sphere.h(59,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CS450\project 5\sphere.h(62,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CS450\project 5\sphere.h(63,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CS450\project 5\sphere.h(64,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CS450\project 5\sphere.h(73,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS450\project 5\sphere.h(74,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS450\project 5\loadobj.h(128,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS450\project 5\loadobj.h(131,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS450\project 5\loadobj.h(134,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS450\project 5\loadobj.h(152,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS450\project 5\loadobj.h(155,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS450\project 5\loadobj.h(158,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS450\project 5\loadobj.h(171,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS450\project 5\loadobj.h(175,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS450\project 5\loadobj.h(179,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS450\project 5\loadobj.h(364,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS450\project 5\loadobj.h(384,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS450\project 5\sample.cpp(436,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\CS450\project 5\sample.cpp(441,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS450\project 5\sample.cpp(455,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CS450\project 5\sample.cpp(455,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CS450\project 5\sample.cpp(455,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CS450\project 5\sample.cpp(850,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+glslprogram.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> D:\CS450\project 5\.\Debug\Sample.exe

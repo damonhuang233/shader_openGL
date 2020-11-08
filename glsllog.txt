@@ -1,0 +1,4 @@
+
+ERROR: 0:9: ';' : syntax error syntax error
+
+
